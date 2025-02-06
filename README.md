@@ -27,3 +27,9 @@ RMK is a feature-rich and easy-to-use keyboard firmware.
    ```shell
    cargo run --release
    ```
+## port from source
+
+https://github.com/OpenAnnePro/qmk_firmware/blob/keyboard-annepro2/keyboards/annepro2/c18/config.h
+
+
+mcu 是 ht32 ， 暂时没有发现对应的实现。不折腾了
